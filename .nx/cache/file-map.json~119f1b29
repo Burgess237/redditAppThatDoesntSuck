@@ -66,7 +66,7 @@
       },
       {
         "file": ".gitignore",
-        "hash": "4604550129068939962"
+        "hash": "91109559695469517"
       },
       {
         "file": ".vscode/extensions.json",
@@ -118,15 +118,15 @@
       },
       {
         "file": "src/app/app.component.spec.ts",
-        "hash": "8507958949846794766"
+        "hash": "3120772876538250633"
       },
       {
         "file": "src/app/app.component.ts",
-        "hash": "15037303187015902985"
+        "hash": "7795175564741241663"
       },
       {
         "file": "src/app/app.module.ts",
-        "hash": "4276253585137005628"
+        "hash": "5073765293049625490"
       },
       {
         "file": "src/app/folder/folder-routing.module.ts",
@@ -134,7 +134,7 @@
       },
       {
         "file": "src/app/folder/folder.module.ts",
-        "hash": "18146396524449006329"
+        "hash": "9906743677462437418"
       },
       {
         "file": "src/app/folder/folder.page.html",
@@ -146,19 +146,11 @@
       },
       {
         "file": "src/app/folder/folder.page.spec.ts",
-        "hash": "6359320203092327625"
+        "hash": "12853991219750251214"
       },
       {
         "file": "src/app/folder/folder.page.ts",
-        "hash": "1435388780474391139"
-      },
-      {
-        "file": "src/app/services/api.service.spec.ts",
-        "hash": "18403854830921658652"
-      },
-      {
-        "file": "src/app/services/api.service.ts",
-        "hash": "5792792744169426661"
+        "hash": "17507363107598131065"
       },
       {
         "file": "src/assets/icon/favicon.png",
